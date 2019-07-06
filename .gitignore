@@ -1,2 +1,5 @@
 *.class
 *.log
+/.idea/
+/out/
+sort-big-file.iml
